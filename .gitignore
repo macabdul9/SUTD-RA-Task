@@ -10,6 +10,8 @@ models/
 *.pth
 *.ipynb_checkpoints/
 
+notebooks/wandb/
+
 
 # C extensions
 *.so
